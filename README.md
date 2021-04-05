@@ -9,10 +9,14 @@ Set path to the directory which contains the files.
 cd path
 
 load the features and ground truth
+
 test_embeddings=np.load("path")
+
 test_bmi=np.load("path")
 
 Load the provided weights of Bollywood dataset for REG_GAP.
+
+
 model99.load_weights("path.h5")
 
 
