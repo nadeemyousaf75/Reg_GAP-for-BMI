@@ -1,4 +1,4 @@
-# Reg_GAP-for-BMI
+# Reg_GAP_for_BMI
 
 Keras Version = 2.2
 Tensorflow version=1.14.0
